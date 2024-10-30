@@ -1,1 +1,1 @@
-# web_pr2
+https://zavalnykt.github.io/web_pr2/
